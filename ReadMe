@@ -1,0 +1,21 @@
+# 🎨 Aditya Kumar Mishra - Portfolio Website 🌟  
+
+Welcome to my personal **portfolio website**! 🚀 This website is built using **R Shiny** and showcases my skills, projects, and contact information.  
+
+![Portfolio Screenshot](https://via.placeholder.com/800x400)  
+
+## 📌 Features  
+✔ **Dark Theme with Cool UI** 🎨  
+✔ **Profile Section with Picture** 📷  
+✔ **Skills & Projects Showcase** 🚀  
+✔ **Live Links to LinkedIn & Twitter** 🔗  
+✔ **R Shiny-based Dynamic Website** 💻  
+
+---
+
+## 🛠️ **How to Run This Website in RStudio**  
+
+### 1️⃣ Install Required Packages  
+First, install **Shiny** package in RStudio:  
+```r
+install.packages("shiny")
